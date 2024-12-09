@@ -2,6 +2,7 @@
 [![Project Page](https://img.shields.io/badge/Project-Page-Green)]([https://gabrie-l.github.io/coma-page/])
 
 > **CoMA: Compositional Human Motion Generation with Multi-modal Agents**
+> 
 > [Shanlin Sun*]([https://siwensun.github.io/]), [Gabriel De Araujo*]([https://gabrie-l.github.io/]), [Jiaqi Xu*]([https://github.com/FufenNan/]), [Shenghan Zhou*]([https://shenghanzhou.github.io/]), [Hanwen Zhang]([https://github.com/zhw123456789/]), [Ziheng Huang]([https://github.com/HuangZiheng-o-O/]), [Chenyu You]([https://chenyuyou.me/]) and [Xiaohui Xie]([https://ics.uci.edu/~xhx/])
 > 
 > (\* Equal Contribution)
