@@ -1,5 +1,6 @@
 # CoMA: Compositional Human Motion Generation with Multi-modal Agents 
-[![Project Page](https://img.shields.io/badge/Project-Page-Green)]([https://gabrie-l.github.io/coma-page/])
+[![Project Page](https://img.shields.io/badge/Project-Page-Green)](https://gabrie-l.github.io/coma-page/)
+[![arXiv](https://img.shields.io/badge/arXiv-2406.18958-b31b1b.svg)](https://arxiv.org/abs/2412.07320)
 
 > **CoMA: Compositional Human Motion Generation with Multi-modal Agents**
 > 
